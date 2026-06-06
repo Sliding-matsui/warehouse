@@ -21,6 +21,7 @@
 | タイトル | 著者 | メモ |
 |---------|------|------|
 | Gauge Algebra and Diffeomorphisms in String Field Theory | R.A. Mamade, B. Zwiebach | |
+| Vertex Operators in Superstring Theory from Integral Forms and Descent Equations | Isao Kishimoto, Shigenori Seki, Haruka Shimogaki, Tomohiko Takahashi | |
  
 ## 2025
  
@@ -39,6 +40,7 @@
 | Closed String Vertex Operators with Various Ghost Number | I. Kishimoto, M. Kouga, S. Seki, T. Takahashi | |
 | A∞ Perspective to Sen's Formalism | A.H. Fırat | |
 | String Vertices for the Large N Limit | A.H. Fırat | |
+| Anomalies and the Green-Schwarz Mechanism | Luis Alvarez-Gaume, Miguel A. Vazquez-Mozo | |
  
 ## 2023
  
