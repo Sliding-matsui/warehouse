@@ -59,6 +59,7 @@
 | Open-closed Hyperbolic String Vertices | M. Cho | 2020 | |
 | Four Lectures on Closed String Field Theory | T. Erler | 2019 | |
 | Closed Superstring Field Theory and its Applications | C. de Lacroix, H. Erbin, S.P. Kashyap, A. Sen, M. Verma | 2017 | |
+| L∞ Algebras and Field Theory | O. Hohm, B. Zwiebach | 2017 | |
 | BV Master Action for Heterotic and Type II String Field Theories | A. Sen | 2016 | |
 | Off-shell Amplitudes in Superstring Theory | A. Sen | 2015 | |
 | Double Field Theory at Order α' | O. Hohm, B. Zwiebach | 2014 | |
