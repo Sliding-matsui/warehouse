@@ -20,6 +20,7 @@
  
 | タイトル | 著者 | メモ |
 |---------|------|------|
+| Graviton Vertex Operators in the de Donder Gauge and BRST Descent | I. Kishimoto, T. Takahashi, M. Yamada | arXiv:2609.11272 |
 | Gauge Algebra and Diffeomorphisms in String Field Theory | R.A. Mamade, B. Zwiebach | |
 | Vertex Operators in Superstring Theory from Integral Forms and Descent Equations | Isao Kishimoto, Shigenori Seki, Haruka Shimogaki, Tomohiko Takahashi | |
  
@@ -70,5 +71,6 @@
 | Off-shell Closed String Amplitudes: Towards a Computation of the Tachyon Potential | A. Belopolsky, B. Zwiebach | 1994 | |
 | Closed String Field Theory: Quantum Action and the BV Master Equation | B. Zwiebach | 1992 | |
 | Strings in the Operator Formalism | L. Alvarez-Gaumé, C. Gomez, G. Moore, C. Vafa | 1988 | |
+| Pregeometrical String Field Theory: Creation of Space-Time and Motion | H. Hata, K. Itoh, T. Kugo, H. Kunitomo, K. Ogawa | 1986 | Phys. Lett. B 175 (1986) 138 |
 | Nonlinear σ-Models as S-Matrix Generating Functionals of Strings | B.E. Fridling, A. Jevicki | 1986 | |
  
