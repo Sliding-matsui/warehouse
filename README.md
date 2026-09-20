@@ -66,6 +66,7 @@
 | Double Field Theory at Order α' | O. Hohm, B. Zwiebach | 2014 | |
 | Double Field Theory | C. Hull, B. Zwiebach | 2009 | |
 | A Covariant Action with a Constraint and Feynman Rules for Fermions in Open Superstring Field Theory | Y. Michishita | 2005 | |
+| Abelian and nonabelian vector field effective actions from string field theory | E. Coletti, I. Sigalov, W. Taylor | 2003 | |
 | Who Changes the String Coupling? | A. Belopolsky, B. Zwiebach | 1995 | |
 | Effective Tachyonic Potential in Closed String Field Theory | A. Belopolsky | 1994 | |
 | Off-shell Closed String Amplitudes: Towards a Computation of the Tachyon Potential | A. Belopolsky, B. Zwiebach | 1994 | |
