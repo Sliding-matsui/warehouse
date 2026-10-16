@@ -15,15 +15,16 @@
 ```
  
 ---
- 
-## 2026
- 
+ ## 2026
+
 | タイトル | 著者 | メモ |
 |---------|------|------|
 | Graviton Vertex Operators in the de Donder Gauge and BRST Descent | I. Kishimoto, T. Takahashi, M. Yamada | arXiv:2609.11272 |
 | Gauge Algebra and Diffeomorphisms in String Field Theory | R.A. Mamade, B. Zwiebach | |
 | Vertex Operators in Superstring Theory from Integral Forms and Descent Equations | Isao Kishimoto, Shigenori Seki, Haruka Shimogaki, Tomohiko Takahashi | |
- 
+| Dirac-Born-Infeld action from inequivalent representations of open strings | Isao Kishimoto, Tomohiko Takahashi, Ayane Tezuka | arXiv:2610.13191 |
+| α'-Bootstrap | Achilleas Gitsis, Falk Hassler, Luca Scala | arXiv:2607.05487 |
+
 ## 2025
  
 | タイトル | 著者 | メモ |
