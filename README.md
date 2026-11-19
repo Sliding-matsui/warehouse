@@ -64,6 +64,7 @@
 | L∞ Algebras and Field Theory | O. Hohm, B. Zwiebach | 2017 | |
 | BV Master Action for Heterotic and Type II String Field Theories | A. Sen | 2016 | |
 | Off-shell Amplitudes in Superstring Theory | A. Sen | 2015 | |
+| Double Field Theory on Group Manifolds | R. Blumenhagen, F. Hassler, D. Lüst | 2015 | |
 | Double Field Theory at Order α' | O. Hohm, B. Zwiebach | 2014 | |
 | Double Field Theory | C. Hull, B. Zwiebach | 2009 | |
 | A Covariant Action with a Constraint and Feynman Rules for Fermions in Open Superstring Field Theory | Y. Michishita | 2005 | |
@@ -75,4 +76,3 @@
 | Strings in the Operator Formalism | L. Alvarez-Gaumé, C. Gomez, G. Moore, C. Vafa | 1988 | |
 | Pregeometrical String Field Theory: Creation of Space-Time and Motion | H. Hata, K. Itoh, T. Kugo, H. Kunitomo, K. Ogawa | 1986 | Phys. Lett. B 175 (1986) 138 |
 | Nonlinear σ-Models as S-Matrix Generating Functionals of Strings | B.E. Fridling, A. Jevicki | 1986 | |
- 
