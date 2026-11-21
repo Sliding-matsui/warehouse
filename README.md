@@ -66,7 +66,9 @@
 | Off-shell Amplitudes in Superstring Theory | A. Sen | 2015 | |
 | Double Field Theory on Group Manifolds | R. Blumenhagen, F. Hassler, D. Lüst | 2015 | |
 | Double Field Theory at Order α' | O. Hohm, B. Zwiebach | 2014 | |
+| Background Independent Action for Double Field Theory | O. Hohm, C. Hull, B. Zwiebach | 2010 | arXiv:1003.5027 |
 | Double Field Theory | C. Hull, B. Zwiebach | 2009 | |
+| Field Redefinitions, T-duality and Solutions in Closed String Field Theories | Y. Michishita | 2006 | arXiv:hep-th/0602251 |
 | A Covariant Action with a Constraint and Feynman Rules for Fermions in Open Superstring Field Theory | Y. Michishita | 2005 | |
 | Abelian and nonabelian vector field effective actions from string field theory | E. Coletti, I. Sigalov, W. Taylor | 2003 | |
 | Who Changes the String Coupling? | A. Belopolsky, B. Zwiebach | 1995 | |
